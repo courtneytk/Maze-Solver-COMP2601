@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Maze Hub</string>
+    <string name="maze_name">Maze Solver</string>
+    <string name="button">Solve</string>
+    <string name="start">S</string>
+    <string name="destination">D</string>
+    <string name="empty">E</string>
+    <string name="wall">W</string>
+    <string name="path">P</string>
+    <string name="attempted">A</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="dropdown">Choose an Option!</string>
+    <string name="welcome">Welcome</string>
+    <string name="toThe">to the</string>
+    <string name="titleEnd">A-Maze-ing Games!</string>
+    <string name="go">Go!</string>
+    <string name="email">Email Maze Results</string>
+    <string name="obstacles">Generate Obstacles</string>
+    <string name="email_address">Email Maze Results</string>
+    <string name="message_content">Email Maze Results</string>
+    <string name="send_email">Send Email</string>
+    <string name="egEmail">JaneDoe@cmail.carleton.ca</string>
+    <string name="egMessage">Message</string>
+    <string name="submit">Send Email</string>
+    <string name="share">Share your Maze Solving Skills!</string>
+    <string name="subject">DIY Maze Solving Results!</string>
+    <string name="theme">Change Theme!</string>
+
+
+
+
+    <string-array name="games">
+        <item>Maze Solver (DIY Maze)</item>
+        <item>Online Maze Games</item>
+    </string-array>
+    <string name="mazeSolver">Maze Solver (DIY Maze)</string>
+    <string name="onlineGames">Online Maze Games</string>
+    <string name="reset_maze">Reset Maze</string>
+
+</resources>
