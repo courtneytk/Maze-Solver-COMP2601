@@ -6,4 +6,4 @@ To Run:
 
 An AVD is used to run the program. In particular, it's called Pixel 4 API 31 (but should work on any Pixel device in general).
 
-Make sure to CLEAN, RE-BUILD, and RUN the program upon opening the code within Xcode (the suggested platform to use if possible).
+Make sure to CLEAN, RE-BUILD, and RUN the program upon opening the code within Android Studio (the suggested platform to use if possible).
